@@ -5,11 +5,11 @@
 *.o
 *.ko
 *.obj
-*.elf
+#*.elf
 
 # Linker output
 *.ilk
-*.map
+#*.map
 *.exp
 
 # Precompiled Headers

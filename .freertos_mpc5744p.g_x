@@ -1,0 +1,120 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Assembler_Includes</name>
+      <values lines_count="1">
+        <Line>"${ProjDirPath}/Generated_Code/"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="8">
+        <Line>"${S32_SDK_PATH}/platform/drivers/src/clock/MPC57xx"</Line>
+        <Line>"${S32_SDK_PATH}/rtos/FreeRTOS_PA/Source/include"</Line>
+        <Line>"${S32_SDK_PATH}/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/common"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/MPC5744P/include"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/MPC5744P/startup"</Line>
+        <Line>"${S32_SDK_PATH}/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Symbols</name>
+      <values lines_count="2">
+        <Line>USING_OS_FREERTOS</Line>
+        <Line>CPU_MPC5744P</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Assembler_Symbols</name>
+      <values lines_count="2">
+        <Line>USING_OS_FREERTOS</Line>
+        <Line>CPU_MPC5744P</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_MPC5744P_144"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Project_Settings/Startup_Code/interrupt_vectors.S" FileDate="2019-06-25, 03:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/stream_buffer.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2019-06-25, 03:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.c" FileDate="2020-04-07, 19:43:03" FileAge="1586259783411" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5744P/include/MPC5744P.h" FileDate="2020-04-07, 19:43:03" FileAge="1586259783036" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/startup_MPC5744P.S" FileDate="2020-04-07, 19:43:03" FileAge="1586259783042" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.c" FileDate="2020-04-07, 19:43:03" FileAge="1586259783371" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/croutine.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portmacro.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/mpu_prototypes.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/common/s32_core_e200.h" FileDate="2020-04-07, 19:43:02" FileAge="1586259782964" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/stack_macros.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Project_Settings/Linker_Files/linker_flash.ld" FileDate="2020-04-07, 19:43:03" FileAge="1586259783039" FileType="262144" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2019-06-25, 03:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5744P/include/MPC5744P_features.h" FileDate="2020-04-07, 19:43:03" FileAge="1586259783037" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/list.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/mpu_wrappers.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/list.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/timers.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.c" FileDate="2020-04-07, 19:43:03" FileAge="1586259783408" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgmcs_hw_access.h" FileDate="2020-04-07, 19:43:03" FileAge="1586259783369" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/task.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2020-04-07, 19:55:03" FileAge="1586260503030" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/FreeRTOSConfig.h" FileDate="2020-04-07, 19:55:03" FileAge="1586260503026" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2020-04-07, 19:55:03" FileAge="1586260503028" FileType="45637" CompNumb="11" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2019-06-25, 03:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/FreeRTOS.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/semphr.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/core0_intc_sw_handlers.S" FileDate="2019-06-25, 03:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/croutine.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Sources/main.c" FileDate="2019-06-25, 03:48:44" FileAge="1561405724000" FileType="128" />
+      <File Name="Generated_Code/FreeRTOS.c" FileDate="1970-01-01, 07:59:59" FileAge="-1" FileType="45637" CompNumb="3" />
+      <File Name="Project_Settings/Linker_Files/linker_ram.ld" FileDate="2020-04-07, 19:43:03" FileAge="1586259783040" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.s" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/queue.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5744P/startup/system_MPC5744P.h" FileDate="2019-06-25, 03:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/timers.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5744P/startup/system_MPC5744P.c" FileDate="2019-06-25, 03:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2020-04-07, 19:55:03" FileAge="1586260503021" FileType="45637" CompNumb="2" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/cpu_defines.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2020-04-07, 19:55:03" FileAge="1586260503019" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2020-04-07, 19:55:03" FileAge="1586260503025" FileType="45637" CompNumb="8" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/queue.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/tasks.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgm_hw_access.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2020-04-07, 19:55:03" FileAge="1586260503023" FileType="45637" CompNumb="8" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/mc_me_hw_access.h" FileDate="2020-04-07, 19:43:03" FileAge="1586259783374" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/portable.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/deprecated_definitions.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/stream_buffer.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/message_buffer.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cmu_hw_access.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/clock.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Documentation/freertos_mpc5744p_Settings.xml" FileDate="2020-04-07, 19:55:03" FileAge="1586260503048" FileType="3072" />
+      <File Name="Documentation/freertos_mpc5744p.txt" FileDate="2020-04-07, 19:55:03" FileAge="1586260503062" FileType="3072" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/event_groups.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/projdefs.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/include/StackMacros.h" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/rtos/FreeRTOS_PA/Source/event_groups.c" FileDate="2019-06-25, 03:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2020-04-07, 19:43:03" FileAge="1586259783352" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.h" FileDate="2020-04-07, 19:43:03" FileAge="1586259783410" FileType="262144" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>1</CodeGenReference>
+</CodeGenerationInfo>

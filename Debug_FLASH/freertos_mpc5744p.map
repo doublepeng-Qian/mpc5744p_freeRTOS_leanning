@@ -1,0 +1,2731 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+                              ./SDK/rtos/FreeRTOS_PA/Source/queue.o (memcpy)
+D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+                              ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o (memset)
+D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+                              ./SDK/rtos/FreeRTOS_PA/Source/tasks.o (strlen)
+D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+                              D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o) (__fill_mem)
+d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+                              D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o) (_restgpr_31_x)
+d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                              ./Sources/main.o (__eabi)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .fixup         0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .sbss2         0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .gcc_except_table
+                0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .data          0x00000000        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .data          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss           0x00000000        0x0 ./Generated_Code/Cpu.o
+ .debug_info    0x00000000       0x76 ./Generated_Code/Cpu.o
+ .debug_abbrev  0x00000000       0x29 ./Generated_Code/Cpu.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x1ff ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x616 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000    0x1a4a3 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000     0x1189 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x1c4 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x15a ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x46 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0xd6 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x1f ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x417 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_line    0x00000000      0x6fa ./Generated_Code/Cpu.o
+ .debug_str     0x00000000    0xb7323 ./Generated_Code/Cpu.o
+ .comment       0x00000000       0x83 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .text          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .data          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .bss           0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x616 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000     0x1189 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x1c4 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x15a ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x46 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0xd6 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x1f ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x417 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .text          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .data          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .bss           0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x616 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000    0x1a4a3 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000     0x1189 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x21e ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .rodata.SystemCoreClockUpdate
+                0x00000000       0x3c ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .text.SystemSoftwareReset
+                0x00000000       0x12 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .sdata.SystemCoreClock
+                0x00000000        0x4 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000      0x616 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000    0x1a4b5 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000     0x1189 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x616 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000    0x1a4b5 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000     0x1189 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetPll0Phi0Freq
+                0x00000000       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetPll1Phi0Freq
+                0x00000000       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetSystemClockFreq
+                0x00000000      0x160 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.CLOCK_SYS_GetSystemClockFreq
+                0x00000000       0x28 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_DRV_GetFreq
+                0x00000000      0x624 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.CLOCK_DRV_GetFreq
+                0x00000000       0xc8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetCurrentConfiguration
+                0x00000000        0xa ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetErrorCallback
+                0x00000000       0x26 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetFreq
+                0x00000000       0x14 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_SetConfiguration
+                0x00000000       0x14 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.interfaceClocks
+                0x00000000      0x190 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.monitoredClocks
+                0x00000000      0x190 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x616 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000    0x1a4a3 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000     0x1189 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_DisableIRQ
+                0x00000000       0x50 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_EnableIRQ_MC
+                0x00000000       0x94 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_DisableIRQ_MC
+                0x00000000       0x94 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_GetCoresForIRQ
+                0x00000000       0x6e ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_DisableIRQ_MC_All
+                0x00000000       0x32 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_GetPriority
+                0x00000000       0x30 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_SetSoftwareIRQRequest
+                0x00000000       0x2a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_ClearSoftwareIRQRequest
+                0x00000000       0x2a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000      0x616 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000    0x1a4a3 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000     0x1189 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_WritePin
+                0x00000000       0x54 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_WritePins
+                0x00000000       0x54 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_GetPinsOutput
+                0x00000000       0x50 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_TogglePins
+                0x00000000       0x5a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ReadPins
+                0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetPullSel
+                0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetOutputBuffer
+                0x00000000       0x64 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetInputBuffer
+                0x00000000       0x5e ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ConfigIntFilterClock
+                0x00000000        0xc ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetExInt
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ClearPinExIntFlag
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_GetPinExIntFlag
+                0x00000000       0x1a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ClearExIntFlag
+                0x00000000        0xa ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_GetExIntFlag
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x616 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000    0x1a4a3 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000     0x1189 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .text.PINS_SetExInt
+                0x00000000       0xce ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x616 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000    0x1a4a3 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000     0x1189 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_info    0x00000000       0x72 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_abbrev  0x00000000       0x27 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_aranges
+                0x00000000       0x18 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_macro   0x00000000       0x43 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_line    0x00000000      0x3cd ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .debug_str     0x00000000     0x7f5f ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .comment       0x00000000       0x83 ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x2e ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x1c0 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x4c ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000      0x106 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.xEventGroupSync
+                0x00000000      0x15e ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x7e ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x14 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x14 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x2e ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueGetMutexHolder
+                0x00000000       0x30 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueGetMutexHolderFromISR
+                0x00000000       0x3e ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x82 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x3a ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x76 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000      0x15c ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x238 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x76 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueuePeek
+                0x00000000      0x1c6 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000      0x12e ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000      0x118 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x50 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x56 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x32 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.vQueueDelete
+                0x00000000       0x42 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x38 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x40 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x2e ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.prvBytesInBuffer
+                0x00000000       0x14 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.prvInitialiseNewStreamBuffer
+                0x00000000       0x7a ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x00000000       0xf0 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x62 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x00000000      0x102 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x58 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x00000000       0xa4 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x00000000       0x66 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferReset
+                0x00000000       0x66 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x48 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x48 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x42 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferSend
+                0x00000000      0x172 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x00000000      0x120 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x00000000      0x150 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x00000000      0x118 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x40 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x00000000       0x60 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0xb4 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0xb4 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x15b ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x58 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.prvSearchForNameWithinSingleList
+                0x00000000       0x9e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskDelete
+                0x00000000      0x112 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x2c ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x5c ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x138 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskResume
+                0x00000000       0xae ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000      0x10e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x3e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000        0x6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0x6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x3e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000      0x104 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskGetHandle
+                0x00000000       0xca ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskAbortDelay
+                0x00000000       0xca ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskSuspend
+                0x00000000      0x11e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x92 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xce ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x58 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x32 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0x6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskPriorityInherit
+                0x00000000      0x100 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x1e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0x90 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0xa8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x140 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .rodata.xTaskGenericNotify
+                0x00000000       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x1b4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .rodata.xTaskGenericNotifyFromISR
+                0x00000000       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000      0x154 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.xTaskNotifyStateClear
+                0x00000000       0x42 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x2e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x00000000       0x91 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerCreate
+                0x00000000       0x76 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000       0x34 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerGetPeriod
+                0x00000000       0x32 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerGetExpiryTime
+                0x00000000       0x32 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.pcTimerGetName
+                0x00000000       0x32 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerIsTimerActive
+                0x00000000       0x62 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.pvTimerGetTimerID
+                0x00000000       0x50 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.vTimerSetTimerID
+                0x00000000       0x54 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerPendFunctionCallFromISR
+                0x00000000       0x2c ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerPendFunctionCall
+                0x00000000       0x62 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x2e ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x86 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x00000000       0x91 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .text.vPortEndScheduler
+                0x00000000        0x6 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x86 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x91 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x00000000       0x19 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x11 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x75 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000    0x1a4a3 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000     0x1189 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000       0x22 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .text          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .data          0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .bss           0x00000000        0x0 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0x6 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x2 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x616 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x1af ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x2e ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x1c4 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x15a ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x46 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0xd6 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x1f ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000      0x417 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0xb5 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x00000000       0x8c ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .debug_macro   0x00000000      0x616 ./Sources/main.o
+ .debug_macro   0x00000000       0x52 ./Sources/main.o
+ .debug_macro   0x00000000       0xa0 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x11 ./Sources/main.o
+ .debug_macro   0x00000000       0x75 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x5e ./Sources/main.o
+ .debug_macro   0x00000000      0x1aa ./Sources/main.o
+ .debug_macro   0x00000000      0x13a ./Sources/main.o
+ .debug_macro   0x00000000       0x9d ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000      0x15b ./Sources/main.o
+ .debug_macro   0x00000000       0x28 ./Sources/main.o
+ .debug_macro   0x00000000       0x58 ./Sources/main.o
+ .debug_macro   0x00000000    0x1a4a3 ./Sources/main.o
+ .debug_macro   0x00000000     0x1189 ./Sources/main.o
+ .debug_macro   0x00000000       0x22 ./Sources/main.o
+ .debug_macro   0x00000000      0x3f7 ./Sources/main.o
+ .debug_macro   0x00000000       0x28 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000      0x1c4 ./Sources/main.o
+ .debug_macro   0x00000000      0x15a ./Sources/main.o
+ .debug_macro   0x00000000       0x46 ./Sources/main.o
+ .debug_macro   0x00000000       0xd6 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000       0x1f ./Sources/main.o
+ .debug_macro   0x00000000      0x417 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000       0xb5 ./Sources/main.o
+ .debug_macro   0x00000000       0x8c ./Sources/main.o
+ .text          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .text.strlen   0x00000000       0x12 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .jcr           0x00000000        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .text          0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .fixup         0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .sdata         0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .sdata2        0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .gcc_except_table
+                0x00000000        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash_rchw       0x00fa0000         0x00000004
+cpu0_reset_vec   0x00fa0004         0x00000004
+m_text           0x01000000         0x00200000
+m_data           0x40000000         0x00060000
+local_dmem       0x50800000         0x00010000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+LOAD d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+LOAD ./Generated_Code/Cpu.o
+LOAD ./Generated_Code/clockMan1.o
+LOAD ./Generated_Code/pin_mux.o
+LOAD ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+LOAD ./Project_Settings/Startup_Code/interrupt_vectors.o
+LOAD ./Project_Settings/Startup_Code/startup_MPC5744P.o
+LOAD ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+LOAD ./SDK/platform/devices/startup.o
+LOAD ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+LOAD ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+LOAD ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+LOAD ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/croutine.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/list.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+LOAD ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+LOAD ./Sources/main.o
+START GROUP
+LOAD D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a
+LOAD D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libm.a
+LOAD d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a
+LOAD D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\librt.a
+END GROUP
+LOAD d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+LOAD d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x00000000                __HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x0
+                0x00001000                __STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x1000
+                0x01000000                FLASH_BASE_ADDR = DEFINED (__flash_base_addr__)?__flash_base_addr__:0x1000000
+                0x00200000                FLASH_SIZE = DEFINED (__flash_size__)?__flash_size__:0x200000
+                0x40000000                SRAM_BASE_ADDR = DEFINED (__sram_base_addr__)?__sram_base_addr__:0x40000000
+                0x00060000                SRAM_SIZE = DEFINED (__sram_size__)?__sram_size__:0x60000
+                0x50800000                LOCAL_DMEM_BASE_ADDR = DEFINED (__local_dmem_base_addr__)?__local_dmem_base_addr__:0x50800000
+                0x00010000                LOCAL_DMEM_SIZE = DEFINED (__local_dmem_size__)?__local_dmem_size__:0x10000
+
+.rchw           0x00fa0000        0x4
+ *(.rchw)
+ .rchw          0x00fa0000        0x4 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+
+.cpu0_reset_vector
+                0x00fa0004        0x4
+ *(.cpu0_reset_vector)
+ .cpu0_reset_vector
+                0x00fa0004        0x4 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+
+.startup        0x01000000      0x18c
+                0x01000000                __start = .
+ *(.startup)
+ .startup       0x01000000      0x18c ./Project_Settings/Startup_Code/startup_MPC5744P.o
+                0x01000000                Reset_Handler
+                0x01000000                _start
+
+.core_exceptions_table
+                0x01001000       0xb4
+                0x01001000                __IVPR_VALUE = .
+ *(.core_exceptions_table)
+ .core_exceptions_table
+                0x01001000       0xb4 ./Project_Settings/Startup_Code/interrupt_vectors.o
+                0x01001000                IVOR0_Vector
+                0x01001000                VTABLE
+                0x01001010                IVOR1_Vector
+                0x01001020                IVOR2_Vector
+                0x01001030                IVOR3_Vector
+                0x01001040                IVOR4_Vector
+                0x01001050                IVOR5_Vector
+                0x01001060                IVOR6_Vector
+                0x01001070                IVOR35_Vector
+                0x01001080                IVOR8_Vector
+                0x01001090                IVOR15_Vector
+                0x010010a0                IVOR33_Vector
+                0x010010b0                IVOR34_Vector
+
+.intc_vector_table
+                0x01002000      0xbcc
+                0x01002000                __VECTOR_TABLE = .
+                0x01002000                __interrupts_start__ = .
+ *(.intc_vector_table)
+ .intc_vector_table
+                0x01002000      0xbcc ./Project_Settings/Startup_Code/startup_MPC5744P.o
+                0x01002000                __isr_vector
+                0x01002bc8                DMA0_Ch27_IRQHandler
+                0x01002bc8                SIUL_EIRQ_16_23_IRQHandler
+                0x01002bc8                CTU1_T6_IRQHandler
+                0x01002bc8                ETIMER0_TC0IR_IRQHandler
+                0x01002bc8                CTU1_ERR_IRQHandler
+                0x01002bc8                CTU0_T1_IRQHandler
+                0x01002bc8                ETIMER1_TC3IR_IRQHandler
+                0x01002bc8                SENT1_Slow_0_IRQHandler
+                0x01002bc8                SENT1_Fast_1_IRQHandler
+                0x01002bc8                ADC1_WD_IRQHandler
+                0x01002bc8                IVOR5_Exception_Handler
+                0x01002bc8                ADC0_WD_IRQHandler
+                0x01002bc8                CAN1_ORed_IRQHandler
+                0x01002bc8                DSPI3_Receive_IRQHandler
+                0x01002bc8                LINFLEXD1_UART_ErrIRQHandler
+                0x01002bc8                CTU1_MRS_IRQHandler
+                0x01002bc8                CAN1_ORed_48_55_MB_IRQHandler
+                0x01002bc8                FlexPWM_1_COF3_IRQHandler
+                0x01002bc8                FlexPWM_0_CAF1_IRQHandler
+                0x01002bc8                CTU0_T4_IRQHandler
+                0x01002bc8                ETIMER2_TC5IR_IRQHandler
+                0x01002bc8                ADC1_ER_IRQHandler
+                0x01002bc8                DSPI2_Receive_IRQHandler
+                0x01002bc8                CTU0_T2_IRQHandler
+                0x01002bc8                FlexPWM_1_CAF2_IRQHandler
+                0x01002bc8                FlexPWM_0_COF1_IRQHandler
+                0x01002bc8                IVOR34_Exception_Handler
+                0x01002bc8                FlexPWM_0_REF_IRQHandler
+                0x01002bc8                CTU0_T5_IRQHandler
+                0x01002bc8                DMA0_Ch13_IRQHandler
+                0x01002bc8                CTU0_T3_IRQHandler
+                0x01002bc8                CAN2_ORed_40_47_MB_IRQHandler
+                0x01002bc8                IVOR33_Exception_Handler
+                0x01002bc8                DMA0_Ch24_IRQHandler
+                0x01002bc8                FlexPWM_1_COF1_IRQHandler
+                0x01002bc8                DMA0_Ch7_IRQHandler
+                0x01002bc8                FlexPWM_1_RF1_IRQHandler
+                0x01002bc8                CTU1_T5_IRQHandler
+                0x01002bc8                ETIMER0_TC2IR_IRQHandler
+                0x01002bc8                DMA0_Ch6_IRQHandler
+                0x01002bc8                ADC3_ER_IRQHandler
+                0x01002bc8                FlexPWM_0_COF3_IRQHandler
+                0x01002bc8                SENT0_RxErr_1_IRQHandler
+                0x01002bc8                CAN1_ORed_12_15_MB_IRQHandler
+                0x01002bc8                DSPI1_Send_IRQHandler
+                0x01002bc8                DSPI0_FIFO_Error_IRQHandler
+                0x01002bc8                DMA0_Ch31_IRQHandler
+                0x01002bc8                PIT_Ch0_IRQHandler
+                0x01002bc8                CAN2_ORed_12_15_MB_IRQHandler
+                0x01002bc8                SWT0_IRQHandler
+                0x01002bc8                FlexPWM_1_COF0_IRQHandler
+                0x01002bc8                ADC2_EOC_IRQHandler
+                0x01002bc8                FlexPWM_1_COF2_IRQHandler
+                0x01002bc8                CAN2_ORed_16_31_MB_IRQHandler
+                0x01002bc8                CAN0_Error_IRQHandler
+                0x01002bc8                SENT0_Slow_0_IRQHandler
+                0x01002bc8                ENET0_Rx_IRQHandler
+                0x01002bc8                ADC0_EOC_IRQHandler
+                0x01002bc8                ADC3_WD_IRQHandler
+                0x01002bc8                DMA0_Ch10_IRQHandler
+                0x01002bc8                CAN1_ORed_56_63_MB_IRQHandler
+                0x01002bc8                DMA0_Ch2_IRQHandler
+                0x01002bc8                CAN0_ORed_56_63_MB_IRQHandler
+                0x01002bc8                FlexPWM_1_RF3_IRQHandler
+                0x01002bc8                PIT_Ch1_IRQHandler
+                0x01002bc8                DMA0_Ch17_IRQHandler
+                0x01002bc8                FlexPWM_0_COF2_IRQHandler
+                0x01002bc8                DMA0_Ch23_IRQHandler
+                0x01002bc8                DSPI2_Send_IRQHandler
+                0x01002bc8                DSPI0_Receive_IRQHandler
+                0x01002bc8                DMA0_Ch0_IRQHandler
+                0x01002bc8                DMA0_Ch4_IRQHandler
+                0x01002bc8                CTU1_ADC_IRQHandler
+                0x01002bc8                FlexPWM_1_RF0_IRQHandler
+                0x01002bc8                ETIMER2_TC4IR_IRQHandler
+                0x01002bc8                DMA0_Ch3_IRQHandler
+                0x01002bc8                DMA0_Ch5_IRQHandler
+                0x01002bc8                DMA0_Ch28_IRQHandler
+                0x01002bc8                CTU0_FIFO1_IRQHandler
+                0x01002bc8                PIT_Ch2_IRQHandler
+                0x01002bc8                ETIMER1_TC1IR_IRQHandler
+                0x01002bc8                DMA0_Ch9_IRQHandler
+                0x01002bc8                FlexPWM_1_REF_IRQHandler
+                0x01002bc8                FlexPWM_0_FFLAG_IRQHandler
+                0x01002bc8                SENT1_RxErr_0_IRQHandler
+                0x01002bc8                ETIMER1_TC2IR_IRQHandler
+                0x01002bc8                ADC0_ER_IRQHandler
+                0x01002bc8                FlexPWM_1_CAF1_IRQHandler
+                0x01002bc8                DMA0_Ch20_IRQHandler
+                0x01002bc8                DSPI1_FIFO_Error_IRQHandler
+                0x01002bc8                ADC2_WD_IRQHandler
+                0x01002bc8                CAN1_ORed_32_39_MB_IRQHandler
+                0x01002bc8                ETIMER0_RCF_IRQHandler
+                0x01002bc8                CTU0_FIFO3_IRQHandler
+                0x01002bc8                CTU1_FIFO2_IRQHandler
+                0x01002bc8                SIUL_EIRQ_00_07_IRQHandler
+                0x01002bc8                CAN2_ORed_48_55_MB_IRQHandler
+                0x01002bc8                CTU1_T2_IRQHandler
+                0x01002bc8                ETIMER2_TC0IR_IRQHandler
+                0x01002bc8                ADC2_ER_IRQHandler
+                0x01002bc8                DSPI0_Send_IRQHandler
+                0x01002bc8                CAN2_ORed_56_63_MB_IRQHandler
+                0x01002bc8                CAN0_ORed_04_07_MB_IRQHandler
+                0x01002bc8                ENET0_Err_IRQHandler
+                0x01002bc8                ETIMER1_TC5IR_IRQHandler
+                0x01002bc8                CAN1_ORed_16_31_MB_IRQHandler
+                0x01002bc8                SENT0_Fast_0_IRQHandler
+                0x01002bc8                IVOR15_Exception_Handler
+                0x01002bc8                CAN1_ORed_40_47_MB_IRQHandler
+                0x01002bc8                CAN1_ORed_00_03_MB_IRQHandler
+                0x01002bc8                ETIMER0_TC1IR_IRQHandler
+                0x01002bc8                CAN1_Error_IRQHandler
+                0x01002bc8                ETIMER0_TC3IR_IRQHandler
+                0x01002bc8                IVOR8_Exception_Handler
+                0x01002bc8                DMA0_Ch14_IRQHandler
+                0x01002bc8                STM0_Ch0_IRQHandler
+                0x01002bc8                IVOR3_Exception_Handler
+                0x01002bc8                DMA0_Ch11_IRQHandler
+                0x01002bc8                ETIMER1_TC4IR_IRQHandler
+                0x01002bc8                SIUL_EIRQ_24_31_IRQHandler
+                0x01002bc8                SENT1_Slow_1_IRQHandler
+                0x01002bc8                CAN2_ORed_32_39_MB_IRQHandler
+                0x01002bc8                CAN2_ORed_00_03_MB_IRQHandler
+                0x01002bc8                IVOR0_Exception_Handler
+                0x01002bc8                CAN1_ORed_04_07_MB_IRQHandler
+                0x01002bc8                CTU1_T0_IRQHandler
+                0x01002bc8                FlexPWM_1_CAF3_IRQHandler
+                0x01002bc8                DMA0_Ch18_IRQHandler
+                0x01002bc8                CAN0_ORed_16_31_MB_IRQHandler
+                0x01002bc8                DMA0_Ch12_IRQHandler
+                0x01002bc8                DefaultISR
+                0x01002bc8                IVOR35_Exception_Handler
+                0x01002bc8                CAN0_ORed_00_03_MB_IRQHandler
+                0x01002bc8                DMA0_Ch0_Ch31_Error_IRQHandler
+                0x01002bc8                ETIMER2_TC1IR_IRQHandler
+                0x01002bc8                IVOR1_Exception_Handler
+                0x01002bc8                FlexPWM_0_CAF0_IRQHandler
+                0x01002bc8                CTU0_T0_IRQHandler
+                0x01002bc8                STM0_Ch3_IRQHandler
+                0x01002bc8                CTU1_FIFO0_IRQHandler
+                0x01002bc8                DMA0_Ch25_IRQHandler
+                0x01002bc8                SENT1_RxErr_1_IRQHandler
+                0x01002bc8                CTU1_T4_IRQHandler
+                0x01002bc8                CAN0_ORed_12_15_MB_IRQHandler
+                0x01002bc8                STM0_Ch2_IRQHandler
+                0x01002bc8                FlexPWM_0_RF1_IRQHandler
+                0x01002bc8                LINFLEXD0_UART_RxIRQHandler
+                0x01002bc8                ETIMER0_TC4IR_IRQHandler
+                0x01002bc8                CAN0_ORed_IRQHandler
+                0x01002bc8                FlexPWM_0_RF2_IRQHandler
+                0x01002bc8                ETIMER0_WTIF_IRQHandler
+                0x01002bc8                DMA0_Ch1_IRQHandler
+                0x01002bc8                CTU0_T6_IRQHandler
+                0x01002bc8                CTU0_MRS_IRQHandler
+                0x01002bc8                CTU0_FIFO0_IRQHandler
+                0x01002bc8                ENET0_Tx_IRQHandler
+                0x01002bc8                ETIMER1_TC0IR_IRQHandler
+                0x01002bc8                DSPI3_FIFO_Error_IRQHandler
+                0x01002bc8                IVOR6_Exception_Handler
+                0x01002bc8                DMA0_Ch29_IRQHandler
+                0x01002bc8                DMA0_Ch15_IRQHandler
+                0x01002bc8                FlexPWM_0_RF0_IRQHandler
+                0x01002bc8                ADC3_EOC_IRQHandler
+                0x01002bc8                FlexPWM_1_CAF0_IRQHandler
+                0x01002bc8                LINFLEXD1_UART_RxIRQHandler
+                0x01002bc8                SENT1_Fast_0_IRQHandler
+                0x01002bc8                SENT0_Fast_1_IRQHandler
+                0x01002bc8                CAN2_Error_IRQHandler
+                0x01002bc8                FlexPWM_0_COF0_IRQHandler
+                0x01002bc8                FlexPWM_0_CAF2_IRQHandler
+                0x01002bc8                CAN1_ORed_08_11_MB_IRQHandler
+                0x01002bc8                LINFLEXD1_UART_TxIRQHandler
+                0x01002bc8                CAN0_ORed_08_11_MB_IRQHandler
+                0x01002bc8                CAN2_ORed_08_11_MB_IRQHandler
+                0x01002bc8                CTU0_ADC_IRQHandler
+                0x01002bc8                DMA0_Ch26_IRQHandler
+                0x01002bc8                SENT0_Slow_1_IRQHandler
+                0x01002bc8                ETIMER2_RCF_IRQHandler
+                0x01002bc8                CTU1_T3_IRQHandler
+                0x01002bc8                CTU1_FIFO1_IRQHandler
+                0x01002bc8                CAN0_ORed_48_55_MB_IRQHandler
+                0x01002bc8                DMA0_Ch30_IRQHandler
+                0x01002bc8                DSPI2_FIFO_Error_IRQHandler
+                0x01002bc8                DMA0_Ch16_IRQHandler
+                0x01002bc8                LINFLEXD0_UART_TxIRQHandler
+                0x01002bc8                CAN2_ORed_04_07_MB_IRQHandler
+                0x01002bc8                IVOR2_Exception_Handler
+                0x01002bc8                DSPI3_Send_IRQHandler
+                0x01002bc8                LINFLEXD0_UART_ErrIRQHandler
+                0x01002bc8                FlexPWM_0_RF3_IRQHandler
+                0x01002bc8                DMA0_Ch19_IRQHandler
+                0x01002bc8                SENT0_RxErr_0_IRQHandler
+                0x01002bc8                FlexPWM_1_RF2_IRQHandler
+                0x01002bc8                DSPI1_Receive_IRQHandler
+                0x01002bc8                FlexPWM_0_CAF3_IRQHandler
+                0x01002bc8                DMA0_Ch22_IRQHandler
+                0x01002bc8                DMA0_Ch21_IRQHandler
+                0x01002bc8                CTU0_FIFO2_IRQHandler
+                0x01002bc8                ENET0_Timer_IRQHandler
+                0x01002bc8                ADC1_EOC_IRQHandler
+                0x01002bc8                CTU0_ERR_IRQHandler
+                0x01002bc8                FCCU0_IRQ_Handler
+                0x01002bc8                STM0_Ch1_IRQHandler
+                0x01002bc8                CTU1_FIFO3_IRQHandler
+                0x01002bc8                ETIMER2_TC2IR_IRQHandler
+                0x01002bc8                DMA0_Ch8_IRQHandler
+                0x01002bc8                PIT_Ch3_IRQHandler
+                0x01002bc8                CAN2_ORed_IRQHandler
+                0x01002bc8                FLASH_Done_IRQHandler
+                0x01002bc8                ETIMER0_TC5IR_IRQHandler
+                0x01002bc8                FlexPWM_1_FFLAG_IRQHandler
+                0x01002bc8                CTU0_T7_IRQHandler
+                0x01002bc8                CTU1_T1_IRQHandler
+                0x01002bc8                ETIMER1_RCF_IRQHandler
+                0x01002bc8                CAN0_ORed_40_47_MB_IRQHandler
+                0x01002bc8                ETIMER2_TC3IR_IRQHandler
+                0x01002bc8                CTU1_T7_IRQHandler
+                0x01002bc8                SIUL_EIRQ_08_15_IRQHandler
+                0x01002bc8                CAN0_ORed_32_39_MB_IRQHandler
+                0x01002bcc                __interrupts_end__ = .
+                0x00000c00                __RAM_VECTOR_TABLE_SIZE = 0xc00
+                0x01002c00                __VECTOR_TABLE_COPY_END = (__VECTOR_TABLE + __RAM_VECTOR_TABLE_SIZE)
+
+.text           0x01002bd0     0x3a20
+ *(.text.startup)
+ *(.text)
+ .text          0x01002bd0      0x16c d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *fill*         0x01002d3c        0x4 
+ .text          0x01002d40      0x2f6 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+                0x01002d80                IVOR0_Handler
+                0x01002dae                IVOR1_Handler
+                0x01002dfc                IVOR2_Handler
+                0x01002e36                IVOR3_Handler
+                0x01002e70                IVOR4_Handler
+                0x01002eb8                IVOR5_Handler
+                0x01002ef2                IVOR6_Handler
+                0x01002f2c                IVOR8_Handler
+                0x01002f66                IVOR15_Handler
+                0x01002f94                IVOR33_Handler
+                0x01002fce                IVOR34_Handler
+                0x01003008                IVOR35_Handler
+ *fill*         0x01003036        0xa 
+ .text          0x01003040      0x242 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+                0x01003040                vPortStartFirstTask
+                0x01003090                vPortISRHandler
+                0x01003150                xPortSyscall
+                0x01003250                vPortNMI
+                0x01003270                vPortDataStorage
+ .text          0x01003282       0x52 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+                0x01003282                _restgpr_14_x
+                0x01003286                _restgpr_15_x
+                0x0100328a                _restgpr_16_x
+                0x0100328e                _restgpr_17_x
+                0x01003292                _restgpr_18_x
+                0x01003296                _restgpr_19_x
+                0x0100329a                _restgpr_20_x
+                0x0100329e                _restgpr_21_x
+                0x010032a2                _restgpr_22_x
+                0x010032a6                _restgpr_23_x
+                0x010032aa                _restgpr_24_x
+                0x010032ae                _restgpr_25_x
+                0x010032b2                _restgpr_26_x
+                0x010032b6                _restgpr_27_x
+                0x010032ba                _restgpr_28_x
+                0x010032be                _restgpr_29_x
+                0x010032c2                _restgpr_30_x
+                0x010032c6                _restgpr_31_x
+ .text          0x010032d4       0x4a d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                0x010032d4                __eabi
+ *fill*         0x0100331e        0x2 
+ .text          0x01003320       0x48 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ *(.text.*)
+ .text.SystemInit
+                0x01003368       0x48 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+                0x01003368                SystemInit
+ .text.init_data_bss
+                0x010033b0       0xae ./SDK/platform/devices/startup.o
+                0x010033b0                init_data_bss
+ .text.CLOCK_SYS_SetPll
+                0x0100345e       0xde ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetIrcoscFreq
+                0x0100353c       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x0100355a        0x2 
+ .text.CLOCK_SYS_GetXoscFreq
+                0x0100355c       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x0100357a        0x2 
+ .text.CLOCK_SYS_GetPll0Phi1Freq
+                0x0100357c       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x0100359a        0x2 
+ .text.CLOCK_SYS_CalculateFrequenciesOfClockSources
+                0x0100359c      0x180 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_DRV_Init
+                0x0100371c      0x940 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x0100371c                CLOCK_DRV_Init
+ .text.CLOCK_SYS_Init
+                0x0100405c       0x4c ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x0100405c                CLOCK_SYS_Init
+ .text.CLOCK_SYS_UpdateConfiguration
+                0x010040a8      0x186 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x010040a8                CLOCK_SYS_UpdateConfiguration
+ *fill*         0x0100422e        0x2 
+ .text.INT_SYS_InstallHandler
+                0x01004230       0x62 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004230                INT_SYS_InstallHandler
+ *fill*         0x01004292        0x2 
+ .text.INT_SYS_EnableIRQ
+                0x01004294       0x52 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004294                INT_SYS_EnableIRQ
+ *fill*         0x010042e6        0x2 
+ .text.INT_SYS_EnableIRQGlobal
+                0x010042e8       0x26 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x010042e8                INT_SYS_EnableIRQGlobal
+ *fill*         0x0100430e        0x2 
+ .text.INT_SYS_DisableIRQGlobal
+                0x01004310       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004310                INT_SYS_DisableIRQGlobal
+ .text.INT_SYS_SetPriority
+                0x01004320       0x50 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004320                INT_SYS_SetPriority
+ .text.PINS_DRV_Init
+                0x01004370       0x38 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+                0x01004370                PINS_DRV_Init
+ .text.PINS_DRV_SetPins
+                0x010043a8       0x58 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+                0x010043a8                PINS_DRV_SetPins
+ .text.PINS_DRV_ClearPins
+                0x01004400       0x5a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+                0x01004400                PINS_DRV_ClearPins
+ *fill*         0x0100445a        0x2 
+ .text.PINS_Init
+                0x0100445c      0x1da ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+                0x0100445c                PINS_Init
+ *fill*         0x01004636        0x2 
+ .text.vListInitialise
+                0x01004638       0x14 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+                0x01004638                vListInitialise
+ .text.vListInitialiseItem
+                0x0100464c        0x6 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+                0x0100464c                vListInitialiseItem
+ *fill*         0x01004652        0x2 
+ .text.vListInsertEnd
+                0x01004654       0x18 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+                0x01004654                vListInsertEnd
+ .text.vListInsert
+                0x0100466c       0x34 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+                0x0100466c                vListInsert
+ .text.uxListRemove
+                0x010046a0       0x2a ./SDK/rtos/FreeRTOS_PA/Source/list.o
+                0x010046a0                uxListRemove
+ *fill*         0x010046ca        0x2 
+ .text.prvIsQueueEmpty
+                0x010046cc       0x26 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.prvCopyDataToQueue
+                0x010046f2       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.prvCopyDataFromQueue
+                0x01004792       0x36 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .text.prvUnlockQueue
+                0x010047c8       0xba ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ *fill*         0x01004882        0x2 
+ .text.xQueueGenericReset
+                0x01004884       0xb2 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                0x01004884                xQueueGenericReset
+ *fill*         0x01004936        0x2 
+ .text.xQueueGenericCreate
+                0x01004938       0x9c ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                0x01004938                xQueueGenericCreate
+ .text.xQueueGenericSend
+                0x010049d4      0x220 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                0x010049d4                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x01004bf4      0x16a ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                0x01004bf4                xQueueGenericSendFromISR
+ *fill*         0x01004d5e        0x2 
+ .text.xQueueReceive
+                0x01004d60      0x1c8 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                0x01004d60                xQueueReceive
+ .text.vQueueWaitForMessageRestricted
+                0x01004f28       0x68 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                0x01004f28                vQueueWaitForMessageRestricted
+ .text.prvResetNextTaskUnblockTime
+                0x01004f90       0x24 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .text.prvIdleTask
+                0x01004fb4       0x76 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ *fill*         0x0100502a        0x2 
+ .text.prvAddCurrentTaskToDelayedList
+                0x0100502c       0xb2 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ *fill*         0x010050de        0x2 
+ .text.xTaskCreate
+                0x010050e0      0x1fc ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010050e0                xTaskCreate
+ .text.vTaskStartScheduler
+                0x010052dc       0xae ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010052dc                vTaskStartScheduler
+ *fill*         0x0100538a        0x2 
+ .text.vTaskSuspendAll
+                0x0100538c        0xc ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x0100538c                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x01005398        0x6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x01005398                xTaskGetTickCount
+ *fill*         0x0100539e        0x2 
+ .text.xTaskIncrementTick
+                0x010053a0      0x15e ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010053a0                xTaskIncrementTick
+ *fill*         0x010054fe        0x2 
+ .text.xTaskResumeAll
+                0x01005500      0x12a ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x01005500                xTaskResumeAll
+ *fill*         0x0100562a        0x2 
+ .text.vTaskDelay
+                0x0100562c       0x68 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x0100562c                vTaskDelay
+ .text.vTaskSwitchContext
+                0x01005694       0xc6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x01005694                vTaskSwitchContext
+ *fill*         0x0100575a        0x2 
+ .text.vTaskPlaceOnEventList
+                0x0100575c       0x56 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x0100575c                vTaskPlaceOnEventList
+ *fill*         0x010057b2        0x2 
+ .text.vTaskPlaceOnEventListRestricted
+                0x010057b4       0x64 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010057b4                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x01005818       0xbe ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x01005818                xTaskRemoveFromEventList
+ *fill*         0x010058d6        0x2 
+ .text.vTaskInternalSetTimeOutState
+                0x010058d8        0xe ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010058d8                vTaskInternalSetTimeOutState
+ *fill*         0x010058e6        0x2 
+ .text.xTaskCheckForTimeOut
+                0x010058e8       0xe8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010058e8                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x010059d0        0x8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010059d0                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x010059d8       0x1a ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010059d8                xTaskGetSchedulerState
+ *fill*         0x010059f2        0x2 
+ .text.xTaskPriorityDisinherit
+                0x010059f4      0x126 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x010059f4                xTaskPriorityDisinherit
+ *fill*         0x01005b1a        0x2 
+ .text.prvInsertTimerInActiveList
+                0x01005b1c       0x56 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ *fill*         0x01005b72        0x2 
+ .text.prvCheckForValidListAndQueue
+                0x01005b74       0x5c ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .text.xTimerCreateTimerTask
+                0x01005bd0       0x6a ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+                0x01005bd0                xTimerCreateTimerTask
+ *fill*         0x01005c3a        0x2 
+ .text.xTimerGenericCommand
+                0x01005c3c       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+                0x01005c3c                xTimerGenericCommand
+ .text.prvSampleTimeNow
+                0x01005cdc       0xd2 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ *fill*         0x01005dae        0x2 
+ .text.prvTimerTask
+                0x01005db0      0x21e ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ *fill*         0x01005fce        0x2 
+ .text.vPortTickISR
+                0x01005fd0       0x7a ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                0x01005fd0                vPortTickISR
+ *fill*         0x0100604a        0x2 
+ .text.pxPortInitialiseStack
+                0x0100604c       0xf6 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                0x0100604c                pxPortInitialiseStack
+ *fill*         0x01006142        0x2 
+ .text.xPortStartScheduler
+                0x01006144       0x26 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                0x01006144                xPortStartScheduler
+ *fill*         0x0100616a        0x2 
+ .text.vPortTaskEnterCritical
+                0x0100616c       0x30 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                0x0100616c                vPortTaskEnterCritical
+ .text.vPortTaskExitCritical
+                0x0100619c       0x34 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                0x0100619c                vPortTaskExitCritical
+ .text.prvPortTimerSetup
+                0x010061d0       0x7c ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+                0x010061d0                prvPortTimerSetup
+ .text.prvPortTimerReset
+                0x0100624c        0xc ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+                0x0100624c                prvPortTimerReset
+ .text.pvPortMalloc
+                0x01006258       0xfc ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+                0x01006258                pvPortMalloc
+ .text.vPortFree
+                0x01006354       0x58 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+                0x01006354                vPortFree
+ .text.vLEDTask
+                0x010063ac       0x68 ./Sources/main.o
+                0x010063ac                vLEDTask
+ .text.main     0x01006414       0xa8 ./Sources/main.o
+                0x01006414                main
+ .text.memcpy   0x010064bc       0x3c D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+                0x010064bc                memcpy
+ .text.memset   0x010064f8       0x1a D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+                0x010064f8                memset
+ .text.__fill_mem
+                0x01006512       0xa0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+                0x01006512                __fill_mem
+ *(.init)
+ *fill*         0x010065b2        0x2 
+ .init          0x010065b4        0xc d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x010065b4                __init
+ .init          0x010065c0        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .init          0x010065c4        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .init          0x010065c8        0xa d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(.fini)
+ *fill*         0x010065d2        0x2 
+ .fini          0x010065d4        0xc d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x010065d4                __fini
+ .fini          0x010065e0        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .fini          0x010065e4        0xa d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x010065f0                . = ALIGN (0x10)
+ *fill*         0x010065ee        0x2 
+
+.glink          0x010065f0        0x0
+ .glink         0x010065f0        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.sdata2         0x010065f0        0x0
+                0x010065f0                . = ALIGN (0x4)
+                0x010065f0                __sdata2_start__ = .
+ *(.sdata2)
+ .sdata2        0x010065f0        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x010065f0                __SDATA2_START__
+ .sdata2        0x010065f0        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                0x0100e5f0                _SDA2_BASE_
+ *(.sdata2.*)
+                0x010065f0                . = ALIGN (0x4)
+                0x010065f0                __sdata2_end__ = .
+
+.got2           0x010065f0       0x1c
+ *(.got2*)
+ .got2          0x010065f0       0x1c d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+
+.preinit_array  0x0100660c        0x0
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0100660c        0x0
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+
+.dtors          0x0100660c        0x8
+ *crtbegin.o(.dtors)
+ .dtors         0x0100660c        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ .dtors         0x01006610        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006610                __DTOR_LIST__
+ .dtors         0x01006610        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x01006610        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x01006610                __DTOR_END__
+
+.ctors          0x01006614        0x8
+ *crtbegin.o(.ctors)
+ .ctors         0x01006614        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ .ctors         0x01006618        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006618                __CTOR_LIST__
+ .ctors         0x01006618        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x01006618                __CTOR_END__
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x01006618        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+
+.fini_array     0x0100661c        0x0
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+
+.rodata         0x0100661c      0x130
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.cmu.5507
+                0x0100661c       0x14 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.clockNameMappings
+                0x01006630       0xc8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x01006630                clockNameMappings
+ .rodata.cmu.5821
+                0x010066f8       0x14 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.str1.4
+                0x0100670c        0x5 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ *fill*         0x01006711        0x3 
+ .rodata.prvTimerTask
+                0x01006714       0x28 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .rodata.str1.4
+                0x0100673c        0x8 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .rodata.str1.4
+                0x01006744        0x8 ./Sources/main.o
+
+.sbss2          0x0100674c        0x0
+ .sbss2         0x0100674c        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+.eh_frame_hdr   0x0100674c       0x14
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0100674c       0x14 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+                0x0100674c                __GNU_EH_FRAME_HDR
+
+.eh_frame       0x01006760       0x84
+ *(.eh_frame)
+ .eh_frame      0x01006760        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006760                __EH_FRAME_BEGIN__
+ .eh_frame      0x01006760        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x01006760        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x01006760       0x7c d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+ .eh_frame      0x010067dc        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .eh_frame      0x010067e0        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x010067e0                __EH_FRAME_END__
+
+.init_table     0x010067e4       0x40
+                0x010067e4                . = ALIGN (0x4)
+                0x010067e4                __COPY_TABLE = .
+ *(.init_table)
+ .init_table    0x010067e4       0x40 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+
+.zero_table     0x01006824       0x14
+                0x01006824                . = ALIGN (0x4)
+                0x01006824                __ZERO_TABLE = .
+ *(.zero_table)
+ .zero_table    0x01006824       0x14 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+                0x01006838                __TEXT_END = .
+
+.rela.dyn       0x01006838        0x0
+ .rela.iplt     0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text     0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.init_table
+                0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.zero_table
+                0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.cpu0_reset_vector
+                0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.intc_vector_table
+                0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.init_data_bss
+                0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.INT_SYS_InstallHandler
+                0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.got2     0x01006838        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.interrupts_ram
+                0x40000000      0xc00
+                0x40000000                __VECTOR_RAM = .
+ *(.m_interrupts_ram)
+                0x40000c00                . = (. + __RAM_VECTOR_TABLE_SIZE)
+ *fill*         0x40000000      0xc00 
+                0x01006838                __CUSTOM_ROM = __TEXT_END
+
+.customSectionBlock
+                0x40000c00        0x0 load address 0x01006838
+                0x40000c00                . = ALIGN (0x4)
+                0x40000c00                __CUSTOM_RAM = .
+                0x40000c00                __customSectionStart = .
+                0x40000c00                __customSection_start__ = .
+ *(.customSection)
+                0x40000c00                . = ALIGN (0x4)
+                0x40000c00                __customSection_end__ = .
+                0x40000c00                __customSectionEnd = .
+                0x01006838                __CUSTOM_END = (__CUSTOM_ROM + (__customSection_end__ - __customSection_start__))
+                0x01006838                __DATA_ROM = __CUSTOM_END
+
+.data           0x40000c00     0x125c load address 0x01006838
+                0x40000c00                . = ALIGN (0x4)
+                0x40000c00                __DATA_RAM = .
+                0x40000c00                __data_start__ = .
+ *(.data)
+ .data          0x40000c00        0x4 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ *(.data.*)
+ .data.peripheralClockMcMeConfig0
+                0x40000c04       0x54 ./Generated_Code/clockMan1.o
+                0x40000c04                peripheralClockMcMeConfig0
+ .data.clockMan1_InitConfig0
+                0x40000c58      0x278 ./Generated_Code/clockMan1.o
+                0x40000c58                clockMan1_InitConfig0
+ .data.g_pin_mux_InitConfigArr
+                0x40000ed0      0xf74 ./Generated_Code/pin_mux.o
+                0x40000ed0                g_pin_mux_InitConfigArr
+ .data.ports    0x40001e44        0xc ./Sources/main.o
+                0x40001e44                ports
+ .data.leds     0x40001e50        0xc ./Sources/main.o
+                0x40001e50                leds
+                0x40001e5c                . = ALIGN (0x4)
+                0x40001e5c                __data_end__ = .
+                0x01007a94                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x01007a94                __SDATA_ROM = __DATA_END
+
+.jcr            0x40001e5c        0x0 load address 0x01007a94
+ .jcr           0x40001e5c        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.tm_clone_table
+                0x40001e5c        0x0 load address 0x01007a94
+ .tm_clone_table
+                0x40001e5c        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .tm_clone_table
+                0x40001e5c        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+
+.sdata          0x40001e5c        0xc load address 0x01007a94
+                0x40001e5c                . = ALIGN (0x4)
+                0x40001e5c                __SDATA_RAM = .
+                0x40001e5c                __sdata_start__ = .
+ *(.sdata)
+ .sdata         0x40001e5c        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x40001e5c                __SDATA_START__
+ .sdata         0x40001e5c        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                0x40009e5c                _SDA_BASE_
+ *(.sdata.*)
+ .sdata.g_clockManConfigsArr
+                0x40001e5c        0x4 ./Generated_Code/clockMan1.o
+                0x40001e5c                g_clockManConfigsArr
+ .sdata.g_xtal0ClkFreq
+                0x40001e60        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x40001e60                g_xtal0ClkFreq
+ .sdata.xFreeBytesRemaining
+                0x40001e64        0x4 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+                0x40001e68                . = ALIGN (0x4)
+                0x40001e68                __sdata_end__ = .
+                0x01007aa0                __SDATA_END = (__SDATA_ROM + (__sdata_end__ - __sdata_start__))
+
+.sbss           0x40001e68       0x90 load address 0x01007aa0
+                0x40001e68                . = ALIGN (0x4)
+                0x40001e68                __SBSS_START = .
+                0x40001e68                __sbss_start__ = .
+ *(.sbss)
+ .sbss          0x40001e68        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x40001e68                __SBSS_START__
+ .sbss          0x40001e68        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x40001e68                __SBSS_END__
+ *(.sbss.*)
+ .sbss.g_clockManCallbacksArr
+                0x40001e68        0x4 ./Generated_Code/clockMan1.o
+                0x40001e68                g_clockManCallbacksArr
+ .sbss.g_xoscClkFreq
+                0x40001e6c        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_enetRmiiClkFreq
+                0x40001e70        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.clockSourceFrequenciesAreCalculatedAndCached.5579
+                0x40001e74        0x1 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x40001e75        0x3 
+ .sbss.g_pll0Phi0ClkFreq
+                0x40001e78        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_ircoscClkFreq
+                0x40001e7c        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_pll0Phi1ClkFreq
+                0x40001e80        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_pll1Phi0ClkFreq
+                0x40001e84        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_interruptDisableCount
+                0x40001e88        0x4 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .sbss.xYieldPending
+                0x40001e8c        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.uxCurrentNumberOfTasks
+                0x40001e90        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.xIdleTaskHandle
+                0x40001e94        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.uxPendedTicks
+                0x40001e98        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.xSchedulerRunning
+                0x40001e9c        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.uxSchedulerSuspended
+                0x40001ea0        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.xTickCount
+                0x40001ea4        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.pxDelayedTaskList
+                0x40001ea8        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.xNextTaskUnblockTime
+                0x40001eac        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.pxCurrentTCB
+                0x40001eb0        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                0x40001eb0                pxCurrentTCB
+ .sbss.xNumOfOverflows
+                0x40001eb4        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.uxTopReadyPriority
+                0x40001eb8        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.uxDeletedTasksWaitingCleanUp
+                0x40001ebc        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.uxTaskNumber
+                0x40001ec0        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.pxOverflowDelayedTaskList
+                0x40001ec4        0x4 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .sbss.xTimerQueue
+                0x40001ec8        0x4 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .sbss.xTimerTaskHandle
+                0x40001ecc        0x4 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .sbss.pxCurrentTimerList
+                0x40001ed0        0x4 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .sbss.pxOverflowTimerList
+                0x40001ed4        0x4 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .sbss.xLastTime.3043
+                0x40001ed8        0x4 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .sbss.pxSystemStackPointer
+                0x40001edc        0x4 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                0x40001edc                pxSystemStackPointer
+ .sbss.xHeapHasBeenInitialised.2761
+                0x40001ee0        0x4 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .sbss.xStart   0x40001ee4        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .sbss.xEnd     0x40001eec        0x8 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .sbss.exit_code
+                0x40001ef4        0x4 ./Sources/main.o
+                0x40001ef4                exit_code
+                0x40001ef8                . = ALIGN (0x4)
+                0x40001ef8                __sbss_end__ = .
+                0x40001ef8                __SBSS_END = .
+
+.bss            0x40001ef8     0x215c load address 0x01007b30
+                0x40001ef8                . = ALIGN (0x4)
+                0x40001ef8                __BSS_START = .
+                0x40001ef8                __bss_start__ = .
+ *(.bss)
+ .bss           0x40001ef8       0x20 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *(.bss.*)
+ .bss.g_clockState
+                0x40001f18       0x10 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .bss.xTasksWaitingTermination
+                0x40001f28       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x40001f3c       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x40001f50       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss.pxReadyTasksLists
+                0x40001f64       0xa0 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss.xPendingReadyList
+                0x40002004       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss.xSuspendedTaskList
+                0x40002018       0x14 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .bss.xActiveTimerList1
+                0x4000202c       0x14 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .bss.xActiveTimerList2
+                0x40002040       0x14 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .bss.ucHeap    0x40002054     0x2000 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ *(COMMON)
+                0x40004054                . = ALIGN (0x4)
+                0x40004054                __bss_end__ = .
+                0x40004054                __BSS_END = .
+                0x01007aa0                __CODE_ROM = __SDATA_END
+
+.iplt           0x40004060        0x0 load address 0x01009c90
+ .iplt          0x40004060        0x0 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.code           0x40004054        0x0 load address 0x01007aa0
+                0x40004054                . = ALIGN (0x4)
+                0x40004054                __CODE_RAM = .
+                0x40004054                __code_start__ = .
+                0x40004054                __code_ram_start__ = .
+ *(.code_ram)
+                0x40004054                . = ALIGN (0x4)
+                0x40004054                __code_ram_end__ = .
+                0x40004054                __code_end__ = .
+                0x01007aa0                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+
+.stack          0x50800000     0x1000
+                0x50800000                __HEAP = .
+                [!provide]                PROVIDE (_end, .)
+                [!provide]                PROVIDE (end, .)
+                0x50800000                . = (. + __HEAP_SIZE)
+                0x50800000                __HEAP_END = .
+                0x50800000                _stack_end = .
+                0x50801000                . = (. + __STACK_SIZE)
+ *fill*         0x50800000     0x1000 
+                0x50801000                . = ALIGN (0x4)
+                0x50801000                _stack_addr = .
+                0x50801000                __SP_INIT = .
+                0x00060000                __SRAM_SIZE = SRAM_SIZE
+                0x40000000                __SRAM_BASE_ADDR = SRAM_BASE_ADDR
+                0x00010000                __LOCAL_DMEM_SIZE = LOCAL_DMEM_SIZE
+                0x50800000                __LOCAL_DMEM_BASE_ADDR = LOCAL_DMEM_BASE_ADDR
+                0x0000215c                __BSS_SIZE = (__BSS_END - __BSS_START)
+OUTPUT(freertos_mpc5744p.elf elf32-powerpc)
+
+.comment        0x00000000       0x9c
+ .comment       0x00000000        0xd d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                                  0xe (size before relaxing)
+ .comment       0x0000000d       0x82 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                                 0x83 (size before relaxing)
+ .comment       0x0000008f       0x83 ./Generated_Code/clockMan1.o
+ .comment       0x0000008f       0x83 ./Generated_Code/pin_mux.o
+ .comment       0x0000008f       0x83 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .comment       0x0000008f       0x83 ./SDK/platform/devices/startup.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .comment       0x0000008f       0x83 ./Sources/main.o
+ .comment       0x0000008f       0x83 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .comment       0x0000008f       0x83 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .comment       0x0000008f       0x83 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .comment       0x0000008f       0x83 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+ .comment       0x0000008f       0x83 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .comment       0x0000008f        0xd d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                                  0xe (size before relaxing)
+
+.PPC.EMB.apuinfo
+                0x00000000       0x1c
+ .PPC.EMB.apuinfo
+                0x00000000       0x18 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .PPC.EMB.apuinfo
+                0x00000018       0x18 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .PPC.EMB.apuinfo
+                0x00000030       0x1c ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .PPC.EMB.apuinfo
+                0x0000004c       0x18 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .PPC.EMB.apuinfo
+                0x00000064       0x18 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .PPC.EMB.apuinfo
+                0x0000007c       0x18 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .PPC.EMB.apuinfo
+                0x00000094       0x18 ./SDK/platform/devices/startup.o
+ .PPC.EMB.apuinfo
+                0x000000ac       0x18 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .PPC.EMB.apuinfo
+                0x000000c4       0x18 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .PPC.EMB.apuinfo
+                0x000000dc       0x18 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .PPC.EMB.apuinfo
+                0x000000f4       0x18 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .PPC.EMB.apuinfo
+                0x0000010c       0x18 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .PPC.EMB.apuinfo
+                0x00000124       0x18 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .PPC.EMB.apuinfo
+                0x0000013c       0x18 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .PPC.EMB.apuinfo
+                0x00000154       0x18 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .PPC.EMB.apuinfo
+                0x0000016c       0x18 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .PPC.EMB.apuinfo
+                0x00000184       0x18 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .PPC.EMB.apuinfo
+                0x0000019c       0x18 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .PPC.EMB.apuinfo
+                0x000001b4       0x18 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .PPC.EMB.apuinfo
+                0x000001cc       0x18 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .PPC.EMB.apuinfo
+                0x000001e4       0x18 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .PPC.EMB.apuinfo
+                0x000001fc       0x18 ./Sources/main.o
+ .PPC.EMB.apuinfo
+                0x00000214       0x18 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .PPC.EMB.apuinfo
+                0x0000022c       0x18 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .PPC.EMB.apuinfo
+                0x00000244       0x18 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .PPC.EMB.apuinfo
+                0x0000025c       0x18 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+ .PPC.EMB.apuinfo
+                0x00000274       0x18 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(e200crtresxgpr.o)
+ .PPC.EMB.apuinfo
+                0x0000028c       0x18 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ .PPC.EMB.apuinfo
+                0x000002a4       0x18 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .PPC.EMB.apuinfo
+                0x000002bc       0x18 d:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+.debug_info     0x00000000    0x1ab91
+ .debug_info    0x00000000     0x21dc ./Generated_Code/clockMan1.o
+ .debug_info    0x000021dc      0x871 ./Generated_Code/pin_mux.o
+ .debug_info    0x00002a4d       0xd6 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_info    0x00002b23       0xd1 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_info    0x00002bf4       0xcc ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .debug_info    0x00002cc0     0x10b6 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_info    0x00003d76      0x237 ./SDK/platform/devices/startup.o
+ .debug_info    0x00003fad     0x6879 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_info    0x0000a826     0x13f0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_info    0x0000bc16     0x1778 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_info    0x0000d38e      0xa73 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_info    0x0000de01      0xc91 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_info    0x0000ea92      0x290 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_info    0x0000ed22     0x22c2 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_info    0x00010fe4     0x17a6 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_info    0x0001278a     0x2c4b ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_info    0x000153d5     0x146d ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_info    0x00016842      0x432 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_info    0x00016c74       0xce ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .debug_info    0x00016d42      0xa16 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_info    0x00017758      0x31c ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_info    0x00017a74     0x2c9f ./Sources/main.o
+ .debug_info    0x0001a713      0x12e D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_info    0x0001a841      0x125 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_info    0x0001a966       0xf0 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_info    0x0001aa56      0x13b D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+
+.debug_abbrev   0x00000000     0x2c37
+ .debug_abbrev  0x00000000      0x126 ./Generated_Code/clockMan1.o
+ .debug_abbrev  0x00000126      0x10c ./Generated_Code/pin_mux.o
+ .debug_abbrev  0x00000232       0x14 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_abbrev  0x00000246       0x14 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_abbrev  0x0000025a       0x12 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .debug_abbrev  0x0000026c      0x162 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_abbrev  0x000003ce       0xf0 ./SDK/platform/devices/startup.o
+ .debug_abbrev  0x000004be      0x3b8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_abbrev  0x00000876      0x285 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_abbrev  0x00000afb      0x312 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_abbrev  0x00000e0d      0x211 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_abbrev  0x0000101e      0x2c2 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_abbrev  0x000012e0       0xe4 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_abbrev  0x000013c4      0x390 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_abbrev  0x00001754      0x313 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_abbrev  0x00001a67      0x3f6 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_abbrev  0x00001e5d      0x37e ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_abbrev  0x000021db      0x26d ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_abbrev  0x00002448       0x14 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .debug_abbrev  0x0000245c      0x1b0 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_abbrev  0x0000260c      0x1bc ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_abbrev  0x000027c8      0x232 ./Sources/main.o
+ .debug_abbrev  0x000029fa       0xa5 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_abbrev  0x00002a9f       0x98 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_abbrev  0x00002b37       0x81 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_abbrev  0x00002bb8       0x7f D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+
+.debug_aranges  0x00000000      0x8c0
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/clockMan1.o
+ .debug_aranges
+                0x00000018       0x18 ./Generated_Code/pin_mux.o
+ .debug_aranges
+                0x00000030       0x20 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_aranges
+                0x00000050       0x20 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_aranges
+                0x00000070       0x28 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .debug_aranges
+                0x00000098       0x30 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_aranges
+                0x000000c8       0x20 ./SDK/platform/devices/startup.o
+ .debug_aranges
+                0x000000e8       0x98 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_aranges
+                0x00000180       0x80 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_aranges
+                0x00000200       0xa0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_aranges
+                0x000002a0       0x28 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_aranges
+                0x000002c8       0x60 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_aranges
+                0x00000328       0x40 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_aranges
+                0x00000368       0xf0 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_aranges
+                0x00000458       0xb8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_aranges
+                0x00000510      0x1a8 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_aranges
+                0x000006b8       0x98 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_aranges
+                0x00000750       0x48 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_aranges
+                0x00000798       0x20 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .debug_aranges
+                0x000007b8       0x28 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_aranges
+                0x000007e0       0x38 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_aranges
+                0x00000818       0x28 ./Sources/main.o
+ .debug_aranges
+                0x00000840       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_aranges
+                0x00000860       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_aranges
+                0x00000880       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_aranges
+                0x000008a0       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+
+.debug_macro    0x00000000    0x1c57d
+ .debug_macro   0x00000000      0x1f9 ./Generated_Code/clockMan1.o
+ .debug_macro   0x000001f9       0x1c ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000215    0x1a4b5 ./Generated_Code/clockMan1.o
+ .debug_macro   0x0001a6ca       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x0001a6da      0x168 ./Generated_Code/pin_mux.o
+ .debug_macro   0x0001a842       0xf8 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x0001a93a       0x22 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_macro   0x0001a95c      0x13b ./SDK/platform/devices/startup.o
+ .debug_macro   0x0001aa97       0x58 ./SDK/platform/devices/startup.o
+ .debug_macro   0x0001aaef      0x186 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x0001ac75       0x2e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x0001aca3      0x159 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x0001adfc      0x1af ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x0001afab      0x168 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x0001b113       0x10 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x0001b123      0x154 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x0001b277      0x1bc ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x0001b433       0x2e ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x0001b461       0x91 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x0001b4f2       0x19 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_macro   0x0001b50b      0x163 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_macro   0x0001b66e      0x1e3 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x0001b851       0x10 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x0001b861       0x86 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_macro   0x0001b8e7      0x1b4 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x0001ba9b       0x18 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_macro   0x0001bab3      0x251 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x0001bd04       0x10 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_macro   0x0001bd14      0x1a6 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_macro   0x0001beba      0x19a ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_macro   0x0001c054      0x144 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_macro   0x0001c198      0x190 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_macro   0x0001c328      0x255 ./Sources/main.o
+
+.debug_line     0x00000000     0x88a4
+ .debug_line    0x00000000      0x700 ./Generated_Code/clockMan1.o
+ .debug_line    0x00000700      0x446 ./Generated_Code/pin_mux.o
+ .debug_line    0x00000b46      0x1a4 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_line    0x00000cea       0xb6 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_line    0x00000da0      0x121 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .debug_line    0x00000ec1      0x40e ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_line    0x000012cf      0x38e ./SDK/platform/devices/startup.o
+ .debug_line    0x0000165d      0xec9 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_line    0x00002526      0x6b0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_line    0x00002bd6      0x6f2 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_line    0x000032c8      0x49c ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_line    0x00003764      0x68c ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_line    0x00003df0      0x451 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_line    0x00004241      0xd2c ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_line    0x00004f6d      0x980 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_line    0x000058ed     0x100b ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_line    0x000068f8      0x70f ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_line    0x00007007      0x47b ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_line    0x00007482      0x104 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/portasm.o
+ .debug_line    0x00007586      0x496 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_line    0x00007a1c      0x498 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_line    0x00007eb4      0x752 ./Sources/main.o
+ .debug_line    0x00008606       0x94 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_line    0x0000869a       0x9e D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_line    0x00008738       0x88 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_line    0x000087c0       0xe4 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+
+.debug_str      0x00000000    0xc45f4
+ .debug_str     0x00000000    0xbbe21 ./Generated_Code/clockMan1.o
+                              0xbbeee (size before relaxing)
+ .debug_str     0x000bbe21      0x97c ./Generated_Code/pin_mux.o
+                              0xb3ae7 (size before relaxing)
+ .debug_str     0x000bc79d      0x368 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+                              0xb4569 (size before relaxing)
+ .debug_str     0x000bcb05      0x3d0 ./SDK/platform/devices/startup.o
+                              0xb347c (size before relaxing)
+ .debug_str     0x000bced5     0x12e0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                              0xb90fc (size before relaxing)
+ .debug_str     0x000be1b5      0x42f ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                              0xb4717 (size before relaxing)
+ .debug_str     0x000be5e4      0x3b0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+                              0xb47ea (size before relaxing)
+ .debug_str     0x000be994       0x9e ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+                              0xb3b93 (size before relaxing)
+ .debug_str     0x000bea32     0x1d86 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+                               0x89dd (size before relaxing)
+ .debug_str     0x000c07b8       0xdb ./SDK/rtos/FreeRTOS_PA/Source/list.o
+                               0x75b5 (size before relaxing)
+ .debug_str     0x000c0893      0xff2 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+                               0x8ceb (size before relaxing)
+ .debug_str     0x000c1885      0xcfc ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+                               0x8899 (size before relaxing)
+ .debug_str     0x000c2581     0x1179 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+                               0x9960 (size before relaxing)
+ .debug_str     0x000c36fa      0x51e ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+                               0x9191 (size before relaxing)
+ .debug_str     0x000c3c18      0x288 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+                               0x8dbd (size before relaxing)
+ .debug_str     0x000c3ea0       0xcf ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+                              0xb4bd0 (size before relaxing)
+ .debug_str     0x000c3f6f      0x380 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+                               0x7dfc (size before relaxing)
+ .debug_str     0x000c42ef       0xf0 ./Sources/main.o
+                              0xbd731 (size before relaxing)
+ .debug_str     0x000c43df      0x1b8 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+                                0x263 (size before relaxing)
+ .debug_str     0x000c4597       0x26 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+                                0x276 (size before relaxing)
+ .debug_str     0x000c45bd       0x1d D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+                                0x26b (size before relaxing)
+ .debug_str     0x000c45da       0x1a D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+                                0x27d (size before relaxing)
+
+.debug_ranges   0x00000000      0xaa0
+ .debug_ranges  0x00000000       0x20 ./Project_Settings/Startup_Code/startup_MPC5744P.o
+ .debug_ranges  0x00000020       0x20 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_ranges  0x00000040       0x10 ./SDK/platform/devices/startup.o
+ .debug_ranges  0x00000050      0x290 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_ranges  0x000002e0       0xd0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_ranges  0x000003b0       0x90 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_ranges  0x00000440       0x18 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_ranges  0x00000458       0x68 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_ranges  0x000004c0       0x30 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_ranges  0x000004f0      0x140 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_ranges  0x00000630       0xa8 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_ranges  0x000006d8      0x228 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_ranges  0x00000900       0xd0 ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_ranges  0x000009d0       0x38 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_ranges  0x00000a08       0x18 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_ranges  0x00000a20       0x28 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_ranges  0x00000a48       0x18 ./Sources/main.o
+ .debug_ranges  0x00000a60       0x10 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_ranges  0x00000a70       0x10 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_ranges  0x00000a80       0x10 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_ranges  0x00000a90       0x10 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+
+.debug_loc      0x00000000     0xd1ad
+ .debug_loc     0x00000000      0x3fb ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_loc     0x000003fb      0x163 ./SDK/platform/devices/startup.o
+ .debug_loc     0x0000055e     0x4668 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_loc     0x00004bc6      0x8e7 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_loc     0x000054ad      0x8a0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_loc     0x00005d4d      0x505 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_loc     0x00006252      0xb40 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_loc     0x00006d92       0x34 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_loc     0x00006dc6     0x1979 ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_loc     0x0000873f     0x15b7 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_loc     0x00009cf6     0x1d2a ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_loc     0x0000ba20      0xc4d ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_loc     0x0000c66d      0x31f ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_loc     0x0000c98c      0x137 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_loc     0x0000cac3      0x1f7 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_loc     0x0000ccba       0x42 ./Sources/main.o
+ .debug_loc     0x0000ccfc      0x189 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_loc     0x0000ce85       0x60 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_loc     0x0000cee5       0x41 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_loc     0x0000cf26      0x287 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
+
+.debug_frame    0x00000000     0x1778
+ .debug_frame   0x00000000       0x40 ./SDK/platform/devices/MPC5744P/startup/system_MPC5744P.o
+ .debug_frame   0x00000040       0x2c ./SDK/platform/devices/startup.o
+ .debug_frame   0x0000006c      0x1c0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_frame   0x0000022c       0xe0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_frame   0x0000030c      0x148 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_frame   0x00000454       0x30 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_frame   0x00000484      0x160 ./SDK/rtos/FreeRTOS_PA/Source/event_groups.o
+ .debug_frame   0x000005e4       0x60 ./SDK/rtos/FreeRTOS_PA/Source/list.o
+ .debug_frame   0x00000644      0x3fc ./SDK/rtos/FreeRTOS_PA/Source/queue.o
+ .debug_frame   0x00000a40      0x2e4 ./SDK/rtos/FreeRTOS_PA/Source/stream_buffer.o
+ .debug_frame   0x00000d24      0x620 ./SDK/rtos/FreeRTOS_PA/Source/tasks.o
+ .debug_frame   0x00001344      0x1fc ./SDK/rtos/FreeRTOS_PA/Source/timers.o
+ .debug_frame   0x00001540       0x94 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/port.o
+ .debug_frame   0x000015d4       0x40 ./SDK/rtos/FreeRTOS_PA/Source/portable/GCC/PowerPC/porttimer.o
+ .debug_frame   0x00001614       0x78 ./SDK/rtos/FreeRTOS_PA/Source/portable/MemMang/heap_2.o
+ .debug_frame   0x0000168c       0x5c ./Sources/main.o
+ .debug_frame   0x000016e8       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memcpy.o)
+ .debug_frame   0x00001708       0x30 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(memset.o)
+ .debug_frame   0x00001738       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(strlen.o)
+ .debug_frame   0x00001758       0x20 D:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a(__filll_mem.o)
